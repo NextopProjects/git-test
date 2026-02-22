@@ -1,3 +1,1 @@
-Hello Git
-
-오후 2:48 2026-02-22 넥스탑 왔다감
+Hello World
